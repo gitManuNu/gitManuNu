@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitManuNu
 - 👀 I’m interested in Machine Learning and Databases
-- 🌱 I’m currently learning Python, SQL Server and I.T.
+- 🌱 I’m currently learning Python, SQL and I.T.
 
 <!---
 gitManuNu/gitManuNu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
